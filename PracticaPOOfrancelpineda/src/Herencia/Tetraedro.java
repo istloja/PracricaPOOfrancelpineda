@@ -9,6 +9,6 @@ package Herencia;
  *
  * @author ISTLOJA V
  */
-public class Tetraedro {
+public class Tetraedro extends Fijuratridimencional{
     
 }

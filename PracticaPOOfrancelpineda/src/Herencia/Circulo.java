@@ -9,6 +9,11 @@ package Herencia;
  *
  * @author ISTLOJA V
  */
-public class Circulo {
-    
-}
+public class Circulo extends Fijurabidimencional {
+       public double CalcularArea(double radio){
+           return radio*Math.pow(Math.PI, 2);
+       }
+       public double calcularPerimetro(double radio){
+           return radio*(2*Math.PI);
+       }
+     }

@@ -9,6 +9,6 @@ package Herencia;
  *
  * @author ISTLOJA V
  */
-public class Fijurabidimencional {
+public class Fijurabidimencional extends Figura {
     
 }

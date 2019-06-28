@@ -9,6 +9,6 @@ package Herencia;
  *
  * @author ISTLOJA V
  */
-public class Cubo {
+public class Cubo extends Fijuratridimencional{
     
 }

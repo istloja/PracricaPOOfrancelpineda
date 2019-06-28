@@ -9,6 +9,11 @@ package Herencia;
  *
  * @author ISTLOJA V
  */
-public class Cuadrado {
-    
+public class Cuadrado extends Fijurabidimencional {
+    public double calcularArea(double lado){
+        return Math.pow(lado,2);
+    }
+    public double calcularPerimetro(double lado){
+        return lado+lado+lado+lado;
+    }
 }

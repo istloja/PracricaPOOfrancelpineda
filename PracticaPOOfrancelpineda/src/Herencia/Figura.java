@@ -12,7 +12,7 @@ package Herencia;
 public class Figura {
  private int area;
     private String perimetro;
-    public void comprar(){
+    public void resultado(){
 
 }
 

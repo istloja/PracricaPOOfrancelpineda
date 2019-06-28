@@ -9,6 +9,6 @@ package Herencia;
  *
  * @author ISTLOJA V
  */
-public class Esfera {
+public class Esfera extends Fijuratridimencional {
     
 }
